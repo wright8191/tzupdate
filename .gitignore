@@ -1,0 +1,6 @@
+
+# debinate
+.debinate/build/
+.debinate/target/
+.debinate/cache/
+
